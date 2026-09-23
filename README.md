@@ -9,7 +9,7 @@ distintos tramos de edad? Si es que existe, ¿a cuánto equivale en pesos?
 
 **Respuesta:** Sí existe una brecha. El tramo "mayor" tiene el ingreso 
 promedio más alto ($830.000), seguido de "adulto" ($811.000) y "joven" 
-($724.800) — una diferencia de $105.200 entre mayor y joven. Sin embargo, 
+($724.800), una diferencia de $105.200 entre mayor y joven. Sin embargo, 
 cada tramo cuenta con solo 5 observaciones, por lo que el resultado debe 
 leerse como una observación puntual de esta muestra, no como un patrón 
 generalizable.
@@ -67,7 +67,8 @@ Camila Bravo Figueroa — septiembre 2026
 - Herramienta utilizada: Claude Sonnet 5
 - Para qué la usé: Para entender la utilización de cada uno de los códigos 
                    utilizados en el desarrollo de la tarea T2 para entender cómo 
-                   tributaban a responder mi pregunta.
+                   tributaban a responder mi pregunta. Además, se utilizó para mejorar
+                   la redacción y formalidad de las respuestas.
 - Qué hice yo: Escribí los códigos en base a lo trabajado en el laboratorio de 
                la semana 5, adaptándolo a lo que pudiera utilizar en mi análisis.
 - Verificación: confirmo que entiendo y puedo explicar todo lo que entrego.
